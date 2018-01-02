@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2017-12-22T07:27:50Z" name="Regression TestSuite" finished-at="2017-12-22T07:27:57Z" duration-ms="6781">
+  <suite started-at="2018-01-02T06:09:54Z" name="Regression TestSuite" finished-at="2018-01-02T06:10:04Z" duration-ms="9509">
     <groups>
     </groups>
-    <test started-at="2017-12-22T07:27:50Z" name="Application Test" finished-at="2017-12-22T07:27:57Z" duration-ms="6781">
+    <test started-at="2018-01-02T06:09:54Z" name="Application Test" finished-at="2018-01-02T06:10:04Z" duration-ms="9509">
       <class name="testpackage.FirstTestClass">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testpackage.FirstTestClass@4a22f9e2]" started-at="2017-12-22T01:27:50Z" name="setUp" finished-at="2017-12-22T01:27:56Z" duration-ms="6084" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpackage.FirstTestClass@4a22f9e2]" started-at="2018-01-02T00:09:54Z" name="setUp" finished-at="2018-01-02T00:10:03Z" duration-ms="8727" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testlogin()[pri:0, instance:testpackage.FirstTestClass@4a22f9e2]" started-at="2017-12-22T01:27:56Z" name="testlogin" finished-at="2017-12-22T01:27:56Z" duration-ms="1" status="PASS">
+        <test-method signature="testlogin()[pri:0, instance:testpackage.FirstTestClass@4a22f9e2]" started-at="2018-01-02T00:10:03Z" name="testlogin" finished-at="2018-01-02T00:10:03Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method is-config="true" signature="cleanUp()[pri:0, instance:testpackage.FirstTestClass@4a22f9e2]" started-at="2017-12-22T01:27:56Z" name="cleanUp" finished-at="2017-12-22T01:27:57Z" duration-ms="683" status="PASS">
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:testpackage.FirstTestClass@4a22f9e2]" started-at="2018-01-02T00:10:03Z" name="cleanUp" finished-at="2018-01-02T00:10:04Z" duration-ms="710" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
